@@ -1,1 +1,1 @@
-//This is the automation code for frature 1
+//This is the automation code for feature 1
