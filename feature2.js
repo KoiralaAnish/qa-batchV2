@@ -2,3 +2,6 @@
 //this is dashboard automation
 
 //This is the feature from branch-2
+
+
+//This is for the merge conflicts

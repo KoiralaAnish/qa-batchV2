@@ -5,7 +5,7 @@
 
 //This is further code
 
-//demo code
+//demo codes
 //changes this direct to master
 
 //this is code B
